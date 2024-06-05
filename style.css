@@ -1,0 +1,19 @@
+.container {
+    background-color: gray;
+    width: 700px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+
+}
+.box {
+    background-color:lightgray ;
+    width: 200px;
+    height: 100px;
+    margin-left: 15px;
+    border: 2px solid black;
+    
+}
